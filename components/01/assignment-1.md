@@ -26,7 +26,7 @@ Jobba i mappen `me/kmom01` och skapa där följande script som löser respektive
   * Om argumentet är lägre än 10: `<arg> är lägre än 10.`.
   * Om argumentet är högre än eller lika med 100: `<arg> är högre än eller lika med 100.`.
   * Om argumentet är högre än 10 och lägre än 20: `<arg> är mellan 10 och 20.`.
-  * Om argumentet är ett jämt tal: `<arg> är ett jämt tal.`.
+  * Om argumentet är ett jämnt tal: `<arg> är ett jämnt tal.`.
   * Om argumentet är ett udda tal: `<arg> är ett udda tal.`.
   * Om argumentet är 42: `Meaning of life.`.
 
